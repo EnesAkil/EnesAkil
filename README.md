@@ -116,9 +116,9 @@
 <img width="350" align="right" alt="coder.gif" src="coder1.gif" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muslumhanozturk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesAkil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muslumhanozturk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EnesAkil&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
